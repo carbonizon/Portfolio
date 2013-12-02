@@ -1,6 +1,12 @@
 body {
     background-color: #F5F5F5;
 }
+p {
+    font-size: 20px;
+    color:#333333;
+    font-family: 'Source Sans Pro', sans-serif;
+    line-height: 30px;
+}
 .header_image {
     background-image:url('http://mark.pe/sources/images/page-headers/bg1.jpg');
     background-repeat: no-repeat;
@@ -11,37 +17,34 @@ body {
     bottom: 0;
     z-index: 0;
 }
-.headers {
-    color: rgba(127,127,127,0.6)
+
+#headers {
+    color: rgba(127,127,127,0.6);
 }
 #home_image {
-    padding-top: 10px;
-    padding-bottom: 10px;
+    padding-top: 15px;
+    padding-bottom: 15px;
     margin-left: auto;
     margin-right: auto;
 }
 .custom {
     margin-top: 350px;
-    background-color: #c4d9ff;
+    background-color: #EDEDED ;
     position:relative;
-
 }
 .nd {
-    background-color: #c4ffea;
-
+    background-color: #FDFDFD;
 }
 .rd {
-    background-color: #ffeac4;
-
+    background-color: #F7F7F7;
 }
 .rth {
-    background-color: #ffc4d9;
-    border-bottom: solid black 1px;
-
+    background-color: #EDEDED;
 }
 .fth {
-    background-color: #2F2F2F;
+    background-color: #242424;
     color: #a5a5a5;
+    border-top: solid #00DDFF 5px;
 }
 .head_text {
     font-weight: bold;
@@ -59,22 +62,6 @@ body {
 #center {
     display: inline-block;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 

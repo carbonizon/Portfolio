@@ -4681,7 +4681,8 @@ textarea.input-group-sm > .input-group-btn > .btn {
 
 .navbar-default {
   background-color: rgba(0,0,0,0.5);
-  border-color: #e7e7e7;
+
+  border-top: solid #00DDFF 5px;
 }
 
 .navbar-default .navbar-brand {
@@ -4699,7 +4700,7 @@ textarea.input-group-sm > .input-group-btn > .btn {
 }
 
 .navbar-default .navbar-nav > li > a {
-  color: white;
+  color: rgba(255,255,255,.5);
   font-weight: bold;
 }
 
