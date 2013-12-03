@@ -21,6 +21,9 @@ p {
 #headers {
 
 }
+#right {
+    float: right;
+}
 #home_image {
     padding-top: 15px;
     padding-bottom: 15px;
