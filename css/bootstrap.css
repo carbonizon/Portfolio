@@ -5232,7 +5232,7 @@ a.list-group-item.active > .badge,
   font-size: 21px;
   font-weight: bolder;
   line-height: 2.1428571435;
-  color: #606060;
+  color: rgba(50,50,50,0.7);
   text-align: center;
   margin-top: 90px;
 }
