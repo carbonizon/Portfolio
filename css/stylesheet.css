@@ -8,7 +8,7 @@ p {
     line-height: 30px;
 }
 .header_image {
-    background-image:url('http://nftroop42.org/beta/images/bg1.jpg');
+    background-image:url('../images/bg1.jpg');
     background-repeat: no-repeat;
     position: absolute;
     left: 0;
